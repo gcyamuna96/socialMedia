@@ -1,0 +1,45 @@
+h2{
+    color: #1ecbe1;
+}
+.form{
+    border: solid #1ecbe1;
+    width: 40%;
+    position:fixed;
+    top:15%;
+    left:25%;
+}
+.infoForm{
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.infoInput{
+    background-color: #d1d1d1;
+    border-radius: 8px;
+    padding:20px;
+    border: none;
+    outline: none;
+    flex:1;
+    margin: 6px;
+}
+.button{
+  background-color: #1ecbe1; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-bottom:8px;
+  transition-duration: 0.4s;
+  border-radius: 8px;
+}
+.button:hover {
+    background-color: white;
+    color: #1ecbe1;
+    border:2px solid #1ecbe1;
+  }
