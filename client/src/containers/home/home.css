@@ -1,0 +1,5 @@
+.homePage{
+    position:relative;
+    display: grid;
+    grid-template-columns: 320px auto 320px;
+}

@@ -1,5 +1,5 @@
 import { Routes, Route } from "react-router-dom"
-import Home from "../containers/home"
+import Home from "../containers/home/home"
 import Profile from "../containers/profile"
 import Friends from "../containers/friends"
 import Login from "../containers/auth/login";
