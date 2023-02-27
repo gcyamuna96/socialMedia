@@ -5,7 +5,7 @@
     position: relative;
     gap: 16px;
     overflow-x: clip;
-    margin-left: 16px;
+    border: 2px solid #1ecbe1;
 }
 
 .profileImage{
