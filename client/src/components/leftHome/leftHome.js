@@ -1,9 +1,9 @@
 import React from 'react'
 import Search from '../search/search.js'
 import ProfileCard from '../profileCard/profileCard.js'
-import './profile.css'
+import './leftHome.css'
 
-const Profile = () => {
+const LeftHome = () => {
   return (
     <div className="profile">
         <Search/>
@@ -12,4 +12,4 @@ const Profile = () => {
   );
 }
 
-export default Profile;
+export default LeftHome;
